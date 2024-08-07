@@ -79,6 +79,22 @@ legend {
 	margin-bottom: 0.5rem;
 }
 
+.container {
+	background-color: #ffffff;
+	padding: 1.5rem;
+	border-radius: 1rem;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	max-width: 25rem;
+	margin: auto;
+}
+
+.paragraph {
+	font-size: 1.2rem;
+	color: #FF0000;
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+}
+
 label {
 	font-size: 1.2rem;
 	display: flex;
